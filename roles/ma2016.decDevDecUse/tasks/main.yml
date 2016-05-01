@@ -1,0 +1,6 @@
+---
+
+- name: create application container
+  docker_container:
+    name: decDevDecUse
+    image: docker.ma2016.net:3625/ddduApp

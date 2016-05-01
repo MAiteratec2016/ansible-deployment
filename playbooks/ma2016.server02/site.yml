@@ -1,0 +1,7 @@
+- name: the product service deployment
+  hosts: server02
+  roles:
+    - ma2016.decDevDecUse
+    - ma2016.constDevDecUse
+    - ma2016.decDevConstUse
+    - ma2016.constDevDecUseTest

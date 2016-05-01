@@ -1,0 +1,7 @@
+playbooks/ma2016.server01;9000
+playbooks/ma2016.server02;6000
+roles/ma2016.constDevConstUse;10000
+roles/ma2016.constDevDecUse;8000
+roles/ma2016.constDevDecUseTest;5000
+roles/ma2016.decDevConstUse;3000
+roles/ma2016.decDevDecUse;1000

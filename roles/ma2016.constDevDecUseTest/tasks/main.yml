@@ -1,0 +1,6 @@
+---
+
+- name: create application container
+  docker_container:
+    name: constDevDecUseTest
+    image: docker.ma2016.net:3625/cdduApp
